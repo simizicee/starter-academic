@@ -25,7 +25,7 @@ author: admin
 
 background:
   # Name of image in `static/media/`.
-  image: background.jpg
+  image: IMG_7668.HEIC
   # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_darken: 0.6
   #  Options are `cover` (default), `contain`, or `actual` size.
