@@ -11,7 +11,7 @@ role: PhD Student in Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Illinois at Urbana-Champaign
-  url: https://ace.illinois.edu/directory/ccai5
+  url: "https://ace.illinois.edu/directory/ccai5"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -32,7 +32,7 @@ education:
   - course: M.S. in Economics
     institution: University of Illinois, Urbana-Champaign
     year: 2013
-  - course: B.A. in International Business & English
+  - course: B.A. in International Business
     institution: Huazhong Univeristy of Science and Technology
     year: 2012
 
@@ -44,15 +44,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ccai5@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/simizicee
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/chang-cai-96b4252a/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/simizicee
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,6 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a fifth year Ph.D. student in Agricultural and Consumer Economics at University of Illinois.
+Hello, there.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am a fifth year Ph.D. student in Agricultural and Consumer Economics at University of Illinois. Placeholder. Few places in this world are more dangerous than home. Fear not, therefore, to try the mountain passes. They will kill care, save you from deadly apathy, set you free, and call forth every faculty into vigorous, enthusiastic action.
+
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.

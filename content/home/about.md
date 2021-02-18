@@ -13,10 +13,10 @@ headless: true
 weight: 20
 
 # Section title
-title: Hello
+title: About
 
 # Section subtitle
-subtitle:
+subtitle: 
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
@@ -32,7 +32,7 @@ design:
     # Name of image in `static/media/`.
     image: window.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.6
+    image_darken: 0.8
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -40,5 +40,8 @@ design:
     # Use a fun parallax-like fixed background effect? true/false
     image_parallax: true
     # Text color (true=light or false=dark).
-    text_color_light: true
+    text_color_light: light
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["80px", "0", "20px", "0"]
 ---

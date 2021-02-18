@@ -7,27 +7,27 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 90
 
-title: Skills
+title: Software
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: ""
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: ""
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: ""
+  icon: globe-americas
+  icon_pack: far
+  name: GIS
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +38,11 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
+#- icon: "matlab"
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
+
+design:
+  columns: '1'
 ---
