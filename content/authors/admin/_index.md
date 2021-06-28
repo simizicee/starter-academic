@@ -52,7 +52,7 @@ social:
   link: https://github.com/simizicee
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 
 
 # Link to a PDF of your resume/CV.
@@ -71,6 +71,6 @@ highlight_name: false
 
 Hello, there.
 
-I am a fifth year Ph.D. student in Agricultural and Consumer Economics at University of Illinois. Placeholder. Few places in this world are more dangerous than home. Fear not, therefore, to try the mountain passes. They will kill care, save you from deadly apathy, set you free, and call forth every faculty into vigorous, enthusiastic action.
+I am a fifth year Ph.D. student in Agricultural and Consumer Economics at University of Illinois. Placeholder. 
 
 {{< icon name="download" pack="fas" >}} You can download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
