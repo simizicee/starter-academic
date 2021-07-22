@@ -6,8 +6,8 @@ title: "Revisiting the Impact of Climate Change on Agriculture through Spatially
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Noe J Nava
-- admin
 - Sandy Dall'Erba 
+- admin
 - Stewart Fotheringham
 
 # Author notes (optional)
