@@ -1,5 +1,5 @@
 ---
-title: "[JMP] Fire"
+title: "[JMP] Wildfire and Visitation in U.S. National Parks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,11 +12,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-07-20T00:00:00Z"
+# date: "2021-07-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-07-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,26 +25,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Job Market Papaer*
-# publication_short: In *Job Market Paper*
+publication: Job Market Paper
+# publication_short: Job Market Paper
 
-abstract: The Ricardian literature has only a handful of contributions addressing the presence of spatial heterogeneity in the marginal effects of climate change on agriculture. Although the majority of these studies offer models with group-specific slope parameters to account for spatial heterogeneity, large discrepancies on which grouping should be preferred still exist. This paper evaluates the extent to which expected future agricultural profits is sensitive to the four pre-determined groupings currently used in the literature. The results indicate that accounting for grouping uncertainty greatly increases the confidence interval around projected climate impacts. In addition, we do not find that one type of grouping is superior to any other. We suggest two potential solutions and emphasize the importance of explicitly controlling for grouping uncertainty in future studies.
+abstract: Millions of people flock to U.S. national parks, and western national parks have become increasingly popular among visitors, providing an irreplaceable opportunity for enjoyment. Yet that most parks’ peak visitation season coincides with fire season, which is projected to last longer with more severe fires in the future. As burned area has tripled over the last three decades, intensifying fires pose unprecedented challenges to park managers on how risk from fires should be mitigated with limited resources during extended peak seasons. This paper estimates how visitors may respond to increasing wildfire activities at 32 western national parks. The monthly visitation loss is up to 0.5% per thousand acres burned and the impact carries over to the following month. The visitation impact is prominent for fires of large size and/or burning within the park boundary. I then explore the relative importance of possible channels through which visitors are likely to respond to contemporaneous wildfires, and find that lack of access due to emergency closures over the course of the season might be one of the main channels.
 
 # Summary. An optional shortened abstract.
-summary: The Ricardian literature has only a handful of contributions addressing the presence of spatial heterogeneity in the marginal effects of climate change on agriculture. Although the majority of these studies offer models with group-specific slope parameters to account for spatial heterogeneity, large discrepancies on which grouping should be preferred still exist. This paper evaluates the extent to which expected future agricultural profits is sensitive to the four pre-determined groupings currently used in the literature. The results indicate that accounting for grouping uncertainty greatly increases the confidence interval around projected climate impacts. In addition, we do not find that one type of grouping is superior to any other. We suggest two potential solutions and emphasize the importance of explicitly controlling for grouping uncertainty in future studies.
+summary: Millions of people flock to U.S. national parks, and western national parks have become increasingly popular among visitors, providing an irreplaceable opportunity for enjoyment. Yet that most parks’ peak visitation season coincides with fire season, which is projected to last longer with more severe fires in the future. As burned area has tripled over the last three decades, intensifying fires pose unprecedented challenges to park managers on how risk from fires should be mitigated with limited resources during extended peak seasons. This paper estimates how visitors may respond to increasing wildfire activities at 32 western national parks. The monthly visitation loss is up to 0.5% per thousand acres burned and the impact carries over to the following month. The visitation impact is prominent for fires of large size and/or burning within the park boundary. I then explore the relative importance of possible channels through which visitors are likely to respond to contemporaneous wildfires, and find that lack of access due to emergency closures over the course of the season might be one of the main channels.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_source: 'https://link.springer.com/article/10.1007/s10584-021-03154-5'
-url_pdf: 'https://rdcu.be/cpdIl'
+url_source: ''
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

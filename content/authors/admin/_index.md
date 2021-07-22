@@ -20,7 +20,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Environmental Economics
 - Spatial Statistics
-- Big Data
 - Maching Learning
 
 # Education to show in About widget
