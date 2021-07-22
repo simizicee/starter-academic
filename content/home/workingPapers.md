@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 30
 
-title: Recent Publications
+title: 📃 Working Papers
 subtitle: ''
 
 content:
@@ -25,9 +25,9 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '3'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
