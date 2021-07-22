@@ -26,7 +26,7 @@ feature:
   name: Python
 - description: ""
   icon: globe-americas
-  icon_pack: far
+  icon_pack: fas
   name: GIS
 
 # Uncomment to use emoji icons.
