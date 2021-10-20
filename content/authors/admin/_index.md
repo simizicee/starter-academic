@@ -6,7 +6,7 @@ title: Chang Cai
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics
+role: PhD Student in Applied Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://ace.illinois.edu/directory/ccai5"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include parks, outdoor recreation, and adaptation to climate change and extreme events.
 
 # Interests to show in About widget
 interests:
@@ -68,8 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Hello, there.
-
-I am a fifth year Ph.D. student in Agricultural and Consumer Economics at University of Illinois. Placeholder. 
+I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois. My research interests focus on issues related to parks, outdoor recreation, and adaptation to climate change and extreme events. I’m currently working to understand how tourists perceive and respond to raging wildfires and wildfire smoke in national parks. My research frequently explores the use of interesting geospatial data and leverages the tools of causal inference and machine learning. 
 
 {{< icon name="download" pack="fas" >}} You can download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV here{{< /staticref >}}.
