@@ -72,4 +72,4 @@ highlight_name: false
 
 I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois. My research interests focus on issues related to parks, outdoor recreation, and adaptation to climate change and extreme events. I’m currently working to understand how tourists perceive and respond to raging wildfires and wildfire smoke in national parks. My research frequently explores the use of interesting geospatial data and leverages the tools of causal inference and machine learning. 
 
-{{< icon name="download" pack="fas" >}} You can download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV {{< /staticref >}} and {{< staticref "files/JMP.pdf" "newtab" >}} job market paper {{< /staticref >}} here.
+{{< icon name="download" pack="fas" >}} You can download my {{< staticref "files/CV.pdf" "newtab" >}} CV {{< /staticref >}} and {{< staticref "files/JMP.pdf" "newtab" >}} job market paper {{< /staticref >}} here.
