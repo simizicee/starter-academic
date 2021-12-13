@@ -20,7 +20,7 @@ bio: My research interests include parks, outdoor recreation, and adaptation to 
 interests:
 - Environmental Economics
 - Spatial Statistics
-- Maching Learning
+- Machine Learning
 
 # Education to show in About widget
 education:
