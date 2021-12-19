@@ -12,11 +12,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-# date: "2021-07-20T00:00:00Z"
+# date: "2021-11-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-20T00:00:00Z"
+publishDate: "2021-11-29T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +28,10 @@ publication_types: ["3"]
 publication: Job Market Paper
 # publication_short: Job Market Paper
 
-abstract: Millions of people flock to U.S. national parks, and western national parks have become increasingly popular among visitors, providing an irreplaceable opportunity for enjoyment. Yet that most parks’ peak visitation season coincides with fire season, which is projected to last longer with more severe fires in the future. As burned area has tripled over the last three decades, intensifying fires pose unprecedented challenges to park managers on how risk from fires should be mitigated with limited resources during extended peak seasons. This paper estimates how visitors may respond to increasing wildfire activities at 32 western national parks. The monthly visitation loss is up to 0.5% per thousand acres burned and the impact carries over to the following month. The visitation impact is prominent for fires of large size and/or burning within the park boundary. I then explore the relative importance of possible channels through which visitors are likely to respond to contemporaneous wildfires, and find that lack of access due to emergency closures over the course of the season might be one of the main channels.
+abstract: The recent rapid increase in wildfire activity due to climate change poses unprecedented challenges to park managers working to mitigate fire risk using limited resources. This paper estimates the effect of wildfires on visitation to 32 national parks across the western U.S. Using a comprehensive dataset on wildfire and smoke, I provide the first large-scale evidence of the negative relationship between wildfire activity and park visitation. I find that, on average, wildfires reduce national park visits by about 700,000 per year and this reduction is disproportionately larger for popular parks with a high level of fire activities. These effects can be explained by a lack of access due to emergency closures throughout the season. I also investigate the global externalities associated with wildfire smoke and find that travelers are not responsive to the smoke from distant sources to a significant degree. These results demonstrate the importance of local adaptation efforts in mitigating economic loss in tourism arising from wildfire avoidance.
 
 # Summary. An optional shortened abstract.
-summary: Millions of people flock to U.S. national parks, and western national parks have become increasingly popular among visitors, providing an irreplaceable opportunity for enjoyment. Yet that most parks’ peak visitation season coincides with fire season, which is projected to last longer with more severe fires in the future. As burned area has tripled over the last three decades, intensifying fires pose unprecedented challenges to park managers on how risk from fires should be mitigated with limited resources during extended peak seasons. This paper estimates how visitors may respond to increasing wildfire activities at 32 western national parks. The monthly visitation loss is up to 0.5% per thousand acres burned and the impact carries over to the following month. The visitation impact is prominent for fires of large size and/or burning within the park boundary. I then explore the relative importance of possible channels through which visitors are likely to respond to contemporaneous wildfires, and find that lack of access due to emergency closures over the course of the season might be one of the main channels.
+summary: The recent rapid increase in wildfire activity due to climate change poses unprecedented challenges to park managers working to mitigate fire risk using limited resources. This paper estimates the effect of wildfires on visitation to 32 national parks across the western U.S. Using a comprehensive dataset on wildfire and smoke, I provide the first large-scale evidence of the negative relationship between wildfire activity and park visitation. I find that, on average, wildfires reduce national park visits by about 700,000 per year and this reduction is disproportionately larger for popular parks with a high level of fire activities. These effects can be explained by a lack of access due to emergency closures throughout the season. I also investigate the global externalities associated with wildfire smoke and find that travelers are not responsive to the smoke from distant sources to a significant degree. These results demonstrate the importance of local adaptation efforts in mitigating economic loss in tourism arising from wildfire avoidance.
 
 tags: []
 
@@ -44,7 +44,7 @@ featured: false
 #   url: http://example.org
 
 url_source: ''
-url_pdf: ''
+url_pdf: 'https://www.chang-cai.com/files/JMP.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

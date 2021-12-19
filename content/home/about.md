@@ -30,9 +30,9 @@ design:
   # Use a dark navy background with light text.
   background:
     # Name of image in `static/media/`.
-    image: window.jpg
+    image: Window.jpg
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken: 0.8
+    image_darken: 0.65
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.
@@ -43,5 +43,5 @@ design:
     text_color_light: light
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["80px", "0", "20px", "0"]
+    padding: ["50px", "0", "20px", "0"]
 ---

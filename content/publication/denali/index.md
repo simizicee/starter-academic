@@ -1,5 +1,5 @@
 ---
-title: "The Spatial Travel Pattern of Recreationists and Perceived Social Values at Denali National Park"
+title: "Integrating Social Values with GPS Tracks through Denali National Park and Preserve"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -12,18 +12,17 @@ authors:
 - William Stewart
 - Riley Andrade
 - Devin Goodson
-- Rose Keller
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-# date: "2021-05-20T00:00:00Z"
+# date: "2021-11-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-05-20T00:00:00Z"
+publishDate: "2021-11-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
