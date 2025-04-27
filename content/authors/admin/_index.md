@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Ph.D. in Agricultural and Applied Economics
-    year: 2022*
+    year: 2022
   - course: M.S. in Applied Statistics
     institution: University of Illinois, Urbana-Champaign
-    year: 2022*
+    year: 2022
   - course: M.S. in Economics
     institution: University of Illinois, Urbana-Champaign
     year: 2013
