@@ -6,12 +6,12 @@ title: Chang Cai
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Applied Economics
+role: Appied Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Illinois at Urbana-Champaign
-  url: "https://ace.illinois.edu/directory/ccai5"
+# - name: University of Illinois at Urbana-Champaign
+  # url: "https://ace.illinois.edu/directory/ccai5"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include parks, outdoor recreation, and adaptation to climate change and extreme events.
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ccai5@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kumiko.cai@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/chang-cai-96b4252a/
+  link: https://www.linkedin.com/in/simizicee/
 - icon: github
   icon_pack: fab
   link: https://github.com/simizicee
-- icon: twitter
+- icon: medium
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://medium.com/@simizicee
 
 
 # Link to a PDF of your resume/CV.
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in Agricultural and Applied Economics at the University of Illinois. My research interests focus on issues related to parks, outdoor recreation, and adaptation to climate change and extreme events. I’m currently working to understand how tourists perceive and respond to raging wildfires and wildfire smoke in national parks. My research frequently explores the use of interesting geospatial data and leverages the tools of causal inference and machine learning. 
+I hold a Ph.D. in Agricultural and Applied Economics from the University of Illinois. I specialize in observational causal inference, computational spatial analysis, economic forecasting and impact evaluation. 
 
 {{< icon name="download" pack="fas" >}} You can download my {{< staticref "files/CV.pdf" "newtab" >}} CV {{< /staticref >}} and {{< staticref "files/JMP.pdf" "newtab" >}} Job Marrket Paper {{< /staticref >}} here.
